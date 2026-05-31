@@ -42,7 +42,7 @@ pemeliharaan dan pelaporan** fasilitas telekomunikasi penerbangan (CNS). Ditetap
 > Pemeliharaan dan Pelaporan Fasilitas Telekomunikasi Penerbangan **dicabut dan dinyatakan tidak
 > berlaku**."
 
-Jadi MOS 172-03 ini **menggantikan** [KP 35/2019](KP-35-2019.md) (AC 171-12) — bukan paralel.
+Jadi MOS 172-03 ini **menggantikan** [KP 35/2019](/umum/kp-35-2019/) (AC 171-12) — bukan paralel.
 Diktum **KEENAM**: penyelenggara wajib menyesuaikan **paling lambat 1 tahun** sejak berlaku
 (→ batas **14 April 2026**).
 

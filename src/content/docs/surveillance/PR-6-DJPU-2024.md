@@ -36,4 +36,4 @@ penerbangan: **SAC** (System Area Code), **SIC** (System Identification Code), *
 ## Catatan Status
 
 Aktif (ditetapkan 29 Mei 2024). **Mencabut** KP 17/KUM/VII/2018; menggantikan rezim kode SSR lama
-termasuk [KP 243/2014](KP-243-2014.md) (yang berstatus dicabut).
+termasuk [KP 243/2014](/surveillance/kp-243-2014/) (yang berstatus dicabut).
