@@ -14,7 +14,7 @@ kategori: [lisensi, rating]
 ruang_lingkup: "lisensi & rating personel navigasi penerbangan, termasuk teknik telekomunikasi penerbangan"
 referensi_icao: ["Annex 1"]
 sumber_resmi: "https://jdih.dephub.go.id/"
-arsip_lokal: null
+arsip_lokal: "pdf/PM-87-2021.pdf"
 verifikasi: true
 ---
 

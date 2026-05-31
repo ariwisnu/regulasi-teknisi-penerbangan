@@ -14,7 +14,7 @@ kategori: [operasi]
 ruang_lingkup: "alokasi kode surveillance (SAC/SIC/II), ICAO 24-bit address, ELT 406 MHz, location indicator"
 referensi_icao: ["Annex 10 Vol IV", "Doc 9871 (Mode S)"]
 sumber_resmi: "https://jdih.dephub.go.id/"
-arsip_lokal: null
+arsip_lokal: "pdf/PR-6-DJPU-2024.pdf"
 verifikasi: true
 ---
 
