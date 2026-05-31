@@ -42,11 +42,6 @@ PM 14/2019) = **DICABUT**, jangan dipakai.
 - `[Pasal verbatim ada di Lampiran PM 87/2021 (BN 2021 No.1319) sebagaimana diubah PM 7/2025 —
   PDF utama = scan, perlu OCR untuk klausul per-pasal.]`
 
-## Kaitan dengan Alat Maumere (MOF)
-
-Lisensi/rating yang harus dipegang teknisi MOF untuk mengoperasikan & merawat DVOR, DME, VHF A/G,
-Voice Recorder berasal dari Part 69 ini (rinciannya di MOS 69-02 / PR 18/2023).
-
 ## Catatan Status
 
 Status = **diubah** (oleh PM 7/2025). PM 7/2025 mengubah **Lampiran** PM 87/2021 agar selaras Annex 1

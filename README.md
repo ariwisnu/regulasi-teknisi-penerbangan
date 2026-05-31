@@ -27,17 +27,12 @@ dicabut / diubah), disusun menurut **cara kerja teknisi** (per alat), bukan per 
 | `draft` | Belum ditetapkan |
 | `verifikasi: false` | Nomor/status **belum** dipastikan di JDIH |
 
-## Fokus Awal: Unit Maumere (MOF)
+## Per Disiplin (per alat)
 
-Cakupan pertama = **Komunikasi + Navigasi**, sesuai fasilitas riil Unit Maumere (sumber: project
-MOFEngineering). Disiplin Surveillance & Automation menyusul kalau ada alatnya / regulasi relevan.
-
-### Per Disiplin (per alat)
-
-- 📡 **[Komunikasi](src/content/docs/komunikasi/index.md)** — VHF A/G, VHF Portable, Voice Recorder, PABX
-- 🧭 **[Navigasi](src/content/docs/navigasi/index.md)** — DVOR, DME (Shelter VOR; status U/S per AIP SUP 39/2024)
-- 🛰️ **[Surveillance](src/content/docs/surveillance/index.md)** — *belum ada alat di MOF; regulasi kode (SAC/SIC/SSR) disertakan untuk kelengkapan*
-- ⚙️ Automation — *belum ada alat khusus di MOF; spesifikasi ATC Automation tercakup di KP 103/2015 & MOS 172-03*
+- 📡 **[Komunikasi](src/content/docs/komunikasi/index.md)** — VHF/HF A/G, Voice Recorder, ATIS, AMHS/AFTN, frekuensi radio
+- 🧭 **[Navigasi](src/content/docs/navigasi/index.md)** — VOR/DVOR, DME, ILS, NDB, GBAS/GNSS, kalibrasi/flight inspection
+- 🛰️ **[Surveillance](src/content/docs/surveillance/index.md)** — kode SSR Mode-S (SAC/SIC/II), ICAO 24-bit, ADS-B, MLAT
+- ⚙️ Automation — spesifikasi ATC Automation tercakup di KP 103/2015 & MOS 172-03
 
 ## Indeks Regulasi
 
@@ -99,7 +94,7 @@ Catatan: MOS 69-01 (PR 15/2022) = lisensi **ATC** (Pemandu Lalu Lintas), bukan t
 | [PR 6 DJPU 2024](src/content/docs/surveillance/PR-6-DJPU-2024.md) | Alokasi SAC/SIC/II Code, ICAO 24-bit, ELT 406 MHz, Location Indicator | **aktif** |
 | [KP 243/2014](src/content/docs/surveillance/KP-243-2014.md) | ~~Izin Kode SSR Mode-S & ELT 406 MHz~~ | 🚫 **dicabut** (oleh PR 6 DJPU 2024) |
 
-> Unit Maumere belum punya alat surveillance (radar/ADS-B/MLAT) — folder ini untuk kelengkapan disiplin.
+> Disiplin surveillance: kode SSR/SAC/SIC + spesifikasi/pemeliharaan fasilitas (PSR/MSSR/ADS-B/MLAT).
 
 ## Cara Pakai / Kontribusi
 

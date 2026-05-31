@@ -64,15 +64,9 @@ Diktum **KEENAM**: penyelenggara wajib menyesuaikan **paling lambat 1 tahun** se
 - **Prosedur pemeliharaan & evaluasi** — BAB III.
 - **Facility Log Book** & **pelaporan** hasil evaluasi kinerja — BAB IV & V.
 - `[Nilai/tabel persyaratan kinerja & interval verbatim ada di PDF (Lampiran) — tarik per alat saat
-  mengisi parameter Maumere. Arsip lokal: `pdf/PR-DJPU-8-2025.pdf` (PDF resmi JDIH, 33 hlm).]`
-
-## Kaitan dengan Alat Maumere (MOF)
-
-Acuan **aktif** untuk persyaratan kinerja + pemeliharaan + pelaporan semua fasilitas CNS Maumere:
-**VHF A/G, Voice Recorder** (Komunikasi) dan **DVOR, DME** (Navigasi). Logbook digital MOFEngineering =
-implementasi BAB IV (Facility Log Book) + BAB V (Pelaporan) dokumen ini.
+  mengisi parameter per alat. Arsip lokal: `pdf/PR-DJPU-8-2025.pdf` (PDF resmi JDIH, 33 hlm).]`
 
 ## Catatan Status
 
 Aktif & terbaru (Revisi 4, 14 April 2025). Mencabut KP 35/2019. Nilai persyaratan kinerja verbatim
-belum disalin ke repo (ada di Lampiran PDF) — kandidat isi berikutnya untuk file per-alat Maumere.
+belum disalin ke repo (ada di Lampiran PDF) — kandidat isi berikutnya untuk file per-alat.

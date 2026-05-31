@@ -1,12 +1,10 @@
 ---
 title: "Surveillance"
-description: "Regulasi surveillance penerbangan (kode SSR/SAC/SIC). MOF belum ada alat surveillance."
+description: "Regulasi surveillance penerbangan (kode SSR/SAC/SIC, ADS-B, MLAT)."
 ---
 
-> **Catatan alat:** Unit Maumere **belum punya fasilitas surveillance** (tidak ada PSR/SSR/MSSR,
-> ADS-B, MLAT) per data alat (seed MOFEngineering: hanya VHF A/G, Voice Recorder, DVOR, DME).
-> Folder ini diisi untuk **kelengkapan disiplin** dan relevan bila unit memasang ADS-B/MLAT, atau
-> untuk teknisi surveillance di unit lain.
+Regulasi surveillance penerbangan — kode SSR Mode-S (SAC/SIC/II), ICAO 24-bit address, ELT 406 MHz,
+serta spesifikasi & pemeliharaan fasilitas surveillance (PSR/MSSR/ADS-B/MLAT).
 
 ## Regulasi
 

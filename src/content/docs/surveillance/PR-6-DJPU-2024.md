@@ -33,12 +33,6 @@ penerbangan: **SAC** (System Area Code), **SIC** (System Identification Code), *
 - Penetapan location indicator unit pelayanan.
 - `[Detail prosedur verbatim perlu dari PDF PR 6 DJPU 2024.]`
 
-## Kaitan dengan Alat Maumere (MOF)
-
-**Tidak langsung** — Unit Maumere belum punya fasilitas surveillance (radar/MLAT/ADS-B) per data alat
-(seed MOFEngineering: hanya VHF + DVOR/DME). Disertakan untuk **kelengkapan disiplin Surveillance** dan
-relevan bila MOF/unit lain memasang ADS-B/MLAT. Location indicator & kode ELT bisa relevan lintas unit.
-
 ## Catatan Status
 
 Aktif (ditetapkan 29 Mei 2024). **Mencabut** KP 17/KUM/VII/2018; menggantikan rezim kode SSR lama

@@ -1,29 +1,28 @@
 ---
 title: "Komunikasi (Communication)"
-description: "Fasilitas komunikasi penerbangan Unit Maumere (MOF) + regulasinya, per alat."
+description: "Fasilitas komunikasi penerbangan + regulasi yang mengaturnya, disusun per alat."
 ---
 
-Fasilitas komunikasi penerbangan di Maumere dan regulasi yang mengaturnya. Disusun **per alat** —
-cara teknisi mikir ("gw pegang VHF A/G, gw butuh regulasi apa").
+Fasilitas komunikasi penerbangan dan regulasi yang mengaturnya. Disusun **per alat** — cara teknisi
+mikir ("gw pegang VHF A/G, gw butuh regulasi apa").
 
 ## Peta Alat → Regulasi
 
-| Alat | Merk | Lokasi | Lisensi/Rating | Spesifikasi teknis | Prosedur pemeliharaan | Penyelenggara |
-|---|---|---|---|---|---|---|
 | Alat | Lisensi/Rating | Spesifikasi | Pemeliharaan/Kinerja | Penyelenggara | Frekuensi |
 |---|---|---|---|---|---|
-| **VHF A/G** (BECKER, Tower Lt.2, DUAL) | [PR 18/2023](../lisensi-rating/PR-18-2023-MOS-69-02.md) + [PR 20/2023](../lisensi-rating/PR-20-2023-SI-69-02.md) | [KP 103/2015 §VHF](../umum/KP-103-2015.md) | [PR-DJPU 08/2025](../umum/PR-DJPU-8-2025.md) | [PM 29/2021 Part 172](PM-29-2021-part-172.md) | [KP 110/2017](KP-110-2017-AC-171-10.md) |
-| **VHF Portable** (Dittel, Tower Lt.4) | PR 18/2023 + PR 20/2023 | KP 103/2015 §VHF | PR-DJPU 08/2025 | PM 29/2021 | KP 110/2017 |
-| **Voice Recorder** (Atis Uher, Tower Lt.2) | PR 18/2023 + PR 20/2023 | KP 103/2015 §Recorder | PR-DJPU 08/2025 | PM 29/2021 | — |
-| **PABX** (Panasonic, Tower Lt.2) | — (pendukung) | — | PR-DJPU 08/2025 (umum) | PM 29/2021 | — |
+| **VHF A/G** | [PR 18/2023](../lisensi-rating/PR-18-2023-MOS-69-02.md) + [PR 20/2023](../lisensi-rating/PR-20-2023-SI-69-02.md) | [KP 103/2015 §VHF](../umum/KP-103-2015.md) | [PR-DJPU 08/2025](../umum/PR-DJPU-8-2025.md) | [PM 29/2021](PM-29-2021-part-172.md) | [KP 110/2017](KP-110-2017-AC-171-10.md) |
+| **HF A/G** | PR 18/2023 + PR 20/2023 | KP 103/2015 §HF | PR-DJPU 08/2025 | PM 29/2021 | KP 110/2017 |
+| **Voice Recorder** | PR 18/2023 + PR 20/2023 | KP 103/2015 §Recorder | PR-DJPU 08/2025 | PM 29/2021 | — |
+| **ATIS / D-ATIS** | PR 18/2023 + PR 20/2023 | KP 103/2015 §ATIS | PR-DJPU 08/2025 | PM 29/2021 | KP 110/2017 |
+| **AMHS/AFTN, jaringan ATS/DS** | PR 18/2023 | KP 103/2015 | PR-DJPU 08/2025 | PM 29/2021 | — |
 
-> Sumber daftar alat: seed Unit Maumere (project MOFEngineering). DVOR/DME ada di folder `navigasi/`.
 > Sertifikasi penyelenggara: [PR 3/2022 (SI 172-01)](PR-3-2022-SI-172-01.md) (rezim baru) /
-> [KP 528/2015 (SI 171-01)](KP-528-2015-SI-171-01.md) (rezim lama).
+> [KP 528/2015 (SI 171-01)](KP-528-2015-SI-171-01.md) (rezim lama). Tatanan jaringan komunikasi:
+> [KP 008/2017](KP-008-2017.md). Navigasi (DVOR/DME) ada di folder `navigasi/`.
 
 ## Catatan
 
-- **VHF A/G** = fasilitas inti komunikasi udara-darat. Konfigurasi **DUAL** (main/standby) di Maumere.
+- **VHF A/G** = fasilitas inti komunikasi udara-darat (umumnya konfigurasi DUAL main/standby).
 - Parameter & toleransi verbatim (frekuensi, power, modulation depth) **belum diisi** — harus ditarik
   dari PDF KP 103/2015 atau SWORD AirNav, bukan dari ingatan (nilai keselamatan).
 - Voice Recorder wajib untuk perekaman komunikasi ATS (audit/investigasi) — Part 172 + Annex 10.

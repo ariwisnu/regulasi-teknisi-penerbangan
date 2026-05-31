@@ -40,12 +40,6 @@ yang harus tercatat/terkoordinasi di tingkat ITU.
 - Koordinasi frekuensi/proteksi spektrum internasional.
 - `[Detail prosedur verbatim ada di PDF — arsip pdf/PERDIRJEN-SDPPI-1-2021.pdf.]`
 
-## Kaitan dengan Alat Maumere (MOF)
-
-Relevan ke registrasi/koordinasi spektrum stasiun radio komunikasi penerbangan Maumere (VHF A/G dll)
-di tingkat ITU. Lintas-sektor (Kominfo), melengkapi sisi Hubud
-[KP 110/2017 (frekuensi radio penerbangan)](KP-110-2017-AC-171-10.md).
-
 ## Catatan Status
 
 Aktif (ditetapkan 8 Jan 2021). **Catatan klasifikasi:** dokumen lintas-sektor (Kominfo, bukan Hubud);

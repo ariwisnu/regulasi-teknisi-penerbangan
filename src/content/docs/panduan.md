@@ -16,11 +16,6 @@ description: Legenda status keberlakuan, aturan konten repo publik, dan cara kon
 Tiap halaman regulasi punya frontmatter: `nomor`, `status`, `mencabut`, `dicabut_oleh`, `disiplin`,
 `sumber_resmi`, `arsip_lokal`.
 
-## Fokus Awal: Unit Maumere (MOF)
-
-Cakupan pertama = **Komunikasi + Navigasi**, sesuai fasilitas riil Unit Maumere: VHF A/G, VHF Portable,
-Voice Recorder (Komunikasi) + DVOR, DME (Navigasi). Surveillance/Automation menyusul.
-
 ## Restrukturisasi Part 171 ↔ 172 (2021)
 
 Fungsi **penyelenggara telekomunikasi penerbangan** pindah dari **Part 171 → Part 172**:
