@@ -23,6 +23,9 @@ Alat bantu navigasi (nav aids) di Maumere dan regulasi yang mengaturnya. Disusun
 - DVOR (Doppler VOR) + DME co-located = nav aid azimuth + jarak. Konfigurasi **DUAL** (main/standby).
 - Parameter & toleransi verbatim (course alignment, modulation, DME delay/reply efficiency) **belum
   diisi** — tarik dari PDF KP 103/2015 atau SWORD AirNav, bukan dari ingatan (nilai keselamatan).
+- **Pemeliharaan & pelaporan:** selain KP 35/2019 (AC 171-12), ada
+  [PR-DJPU 08/2025](../umum/PR-DJPU-8-2025.md) (MOS 172-03, lebih baru, + persyaratan kinerja).
+  Cek mana yang berlaku di unit.
 
 ## Regulasi di folder ini
 

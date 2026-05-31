@@ -20,6 +20,9 @@ cara teknisi mikir ("gw pegang VHF A/G, gw butuh regulasi apa").
 - Parameter & toleransi verbatim (frekuensi, power, modulation depth) **belum diisi** — harus ditarik
   dari PDF KP 103/2015 atau SWORD AirNav, bukan dari ingatan (nilai keselamatan).
 - Voice Recorder wajib untuk perekaman komunikasi ATS (audit/investigasi) — diatur Part 171 + Annex 10.
+- **Pemeliharaan & pelaporan:** selain KP 35/2019 (AC 171-12), ada
+  [PR-DJPU 08/2025](../umum/PR-DJPU-8-2025.md) (MOS 172-03, lebih baru, + persyaratan kinerja).
+  Cek mana yang berlaku di unit.
 
 ## Regulasi di folder ini
 
