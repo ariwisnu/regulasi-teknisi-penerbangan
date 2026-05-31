@@ -1,0 +1,39 @@
+---
+import Default from '@astrojs/starlight/components/MarkdownContent.astro';
+
+const data = Astro.locals.starlightRoute.entry.data as Record<string, unknown>;
+
+const sumber = typeof data.sumber_resmi === 'string' ? data.sumber_resmi : '';
+const arsip = typeof data.arsip_lokal === 'string' ? data.arsip_lokal : '';
+const status = typeof data.status === 'string' ? data.status : '';
+const nomor = typeof data.nomor === 'string' ? data.nomor : '';
+
+const urlMatch = sumber.match(/https?:\/\/[^\s)]+/);
+const sumberUrl = urlMatch ? urlMatch[0] : '';
+
+const GH = 'https://github.com/ariwisnu/regulasi-teknisi-penerbangan/raw/main/';
+const arsipUrl = arsip ? GH + arsip : '';
+
+const show = Boolean(sumberUrl || arsipUrl);
+---
+
+{
+  show && (
+    <div class="reg-sumber not-content">
+      {nomor && <span class="reg-nomor">{nomor}</span>}
+      {status && <span class={`reg-badge reg-${status}`}>{status}</span>}
+      {sumberUrl && (
+        <a href={sumberUrl} target="_blank" rel="noopener noreferrer">
+          📄 Dokumen resmi (JDIH/SWORD)
+        </a>
+      )}
+      {arsipUrl && (
+        <a href={arsipUrl} target="_blank" rel="noopener noreferrer">
+          ⬇️ Unduh arsip PDF
+        </a>
+      )}
+    </div>
+  )
+}
+
+<Default {...Astro.props}><slot /></Default>

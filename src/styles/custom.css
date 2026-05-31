@@ -14,3 +14,49 @@
 .sl-markdown-content table {
   font-size: 0.9rem;
 }
+
+/* Box sumber resmi + arsip PDF di tiap halaman regulasi */
+.reg-sumber {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--sl-color-gray-5);
+  border-radius: 0.5rem;
+  background: var(--sl-color-gray-6);
+  font-size: 0.875rem;
+}
+.reg-sumber a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.3rem 0.7rem;
+  border-radius: 0.4rem;
+  background: var(--sl-color-accent-low);
+  color: var(--sl-color-white);
+  text-decoration: none;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.reg-sumber a:hover {
+  background: var(--sl-color-accent);
+}
+.reg-nomor {
+  font-weight: 700;
+  color: var(--sl-color-white);
+}
+.reg-badge {
+  text-transform: uppercase;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  padding: 0.15rem 0.5rem;
+  border-radius: 1rem;
+  color: #fff;
+}
+.reg-aktif { background: #16a34a; }
+.reg-dicabut { background: #dc2626; }
+.reg-diubah { background: #d97706; }
+.reg-draft { background: #6b7280; }

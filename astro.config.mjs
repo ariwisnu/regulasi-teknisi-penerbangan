@@ -31,6 +31,9 @@ export default defineConfig({
         { label: 'Surveillance', autogenerate: { directory: 'surveillance' } },
       ],
       customCss: ['./src/styles/custom.css'],
+      components: {
+        MarkdownContent: './src/components/SumberArsip.astro',
+      },
     }),
   ],
 });
