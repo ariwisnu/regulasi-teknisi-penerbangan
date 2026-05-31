@@ -29,6 +29,7 @@ Alat bantu navigasi (nav aids) di Maumere dan regulasi yang mengaturnya. Disusun
 
 ## Regulasi di folder ini
 
+- [PM 86/2021 (CASR Part 171)](PM-86-2021-part-171.md) — penyelenggara kalibrasi fasilitas navigasi **(aktif)**.
 - [PM 22/2015](PM-22-2015.md) — kalibrasi / flight inspection fasilitas navigasi.
 
 Regulasi lintas-disiplin (spesifikasi, pemeliharaan, lisensi, payung) ada di `../umum/` dan

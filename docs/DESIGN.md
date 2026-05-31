@@ -193,9 +193,16 @@ regulasi-teknisi-penerbangan/
   Prosedur Penerbangan dan Pengujian Dalam Penerbangan** (flight inspection/kalibrasi nav aids —
   padanan nasional ICAO Doc 8071; penting buat VOR/DME/ILS). `[TERVERIFIKASI]`
 
-**Seri MOS/AC CASR Part 171 (turunan Part 171, terverifikasi JDIH):**
-- 171-02 = KP 103/2015 (spesifikasi teknis fasilitas) · 171-09 = KP 78/2017 (NOTAM/AIS dinamis)
-  · 171-12 = KP 35/2019 (pemeliharaan & pelaporan fasilitas).
+**Seri MOS/SI/AC CASR Part 171 (turunan, TERVERIFIKASI browser JDIH 2026-05-31):**
+- 171-01 = KP 528/2015 (SI, sertifikasi penyelenggara telkom) · 171-02 = KP 103/2015 (MOS, spesifikasi
+  teknis fasilitas) · 171-09 = **KP 017/2017** (AC, Penggunaan Internet Publik untuk Aplikasi Aeronautika
+  — KOREKSI: bukan "KP 78/2017 NOTAM/AIS"; KP 78/2017 tidak ada di JDIH, itu error riset web awal) ·
+  171-10 = KP 110/2017 (AC, Penggunaan Frekuensi Radio Penerbangan) · 171-12 = KP 35/2019 (AC,
+  pemeliharaan & pelaporan) **DICABUT** oleh PR-DJPU 08/2025.
+- **Restrukturisasi 2021:** Part 171 telkom (PM 57/2011) DICABUT oleh Part 172 (PM 29/2021 = ATM+telkom);
+  Part 171 dipakai ulang utk Penyelenggara Kalibrasi Fasilitas Navigasi (PM 86/2021). Seri 172: 172-01 =
+  PR 3/2022 (SI sertifikasi), 172-03 = PR-DJPU 08/2025 (MOS kinerja+pemeliharaan). Part 69: 69-01 =
+  PR 15/2022 (MOS, lisensi ATC), 69-02 = PR 18/2023 (MOS, teknik telkom) + PR 20/2023 (SI pengujian).
 
 **Referensi ICAO (link/rujuk, jangan redistribusi penuh — hak cipta)**
 - Annex 10 *Aeronautical Telecommunications*: Vol I (alat bantu navigasi radio), Vol II (prosedur

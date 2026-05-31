@@ -39,33 +39,47 @@ MOFEngineering). Disiplin Surveillance & Automation menyusul kalau ada alatnya /
 
 ## Indeks Regulasi
 
+> **⚠️ Restrukturisasi Part 171 ↔ 172 (2021) — wajib paham.** Fungsi **penyelenggara telekomunikasi
+> penerbangan** pindah dari **Part 171 → Part 172**. Sekarang: **Part 172 (PM 29/2021)** = penyelenggara
+> ATM **+ telekomunikasi** (mencabut PM 57/2011); **Part 171 (PM 86/2021)** = penyelenggara **kalibrasi**
+> fasilitas navigasi. Akibatnya seri MOS bergeser 171-xx → 172-xx (mis. MOS 172-03 mencabut AC 171-12).
+
 ### Payung / Umum (`umum/`)
 | Nomor | Judul | Status |
 |---|---|---|
 | [UU 1/2009](umum/UU-1-2009.md) | Penerbangan | diubah (UU 6/2023) |
 | [PP 77/2012](umum/PP-77-2012.md) | Perum LPPNPI (AirNav) | aktif |
+| [PP 32/2021](umum/PP-32-2021.md) | Penyelenggaraan Bidang Penerbangan | aktif |
 | [PM 64/2011](umum/PM-64-2011.md) | Kriteria/Tugas/Wewenang Teknisi Penerbangan | aktif |
-| [KP 103/2015](umum/KP-103-2015.md) | MOS 171-02 Spesifikasi Teknis Fasilitas Telekomunikasi | aktif |
-| [PR-DJPU 08/2025](umum/PR-DJPU-8-2025.md) | MOS 172-03 Persyaratan Kinerja + Pemeliharaan & Pelaporan Fasilitas Telekomunikasi | **aktif** |
-| [KP 35/2019](umum/KP-35-2019.md) | ~~AC 171-12 Prosedur Pemeliharaan & Pelaporan~~ | 🚫 **dicabut** (oleh PR-DJPU 08/2025) |
+| [KP 103/2015](umum/KP-103-2015.md) | MOS 171-02 Spesifikasi Teknis Fasilitas Telekomunikasi | aktif (rezim lama) |
+| [PR-DJPU 08/2025](umum/PR-DJPU-8-2025.md) | MOS 172-03 Persyaratan Kinerja + Pemeliharaan & Pelaporan | **aktif** |
+| [KP 35/2019](umum/KP-35-2019.md) | ~~AC 171-12 Pemeliharaan & Pelaporan~~ | 🚫 **dicabut** (oleh PR-DJPU 08/2025) |
 
 ### Lisensi & Rating (`lisensi-rating/`)
 | Nomor | Judul | Status |
 |---|---|---|
 | [CASR Part 69](lisensi-rating/CASR-69.md) | Lisensi/Rating Personel Navigasi Penerbangan | diubah |
 | [PM 7/2025](lisensi-rating/PM-7-2025.md) | Perubahan Lampiran Part 69 (selaras Annex 1 ICAO) | aktif |
-| [PR 18/2023](lisensi-rating/PR-18-2023-MOS-69-02.md) | MOS 69-02 — Teknik Telekomunikasi Penerbangan | aktif |
+| [PR 18/2023](lisensi-rating/PR-18-2023-MOS-69-02.md) | MOS 69-02 — rating Teknik Telekomunikasi Penerbangan | aktif |
+| [PR 20/2023](lisensi-rating/PR-20-2023-SI-69-02.md) | SI 69-02 — pengujian lisensi/rating teknisi telkom | aktif |
 
 **Lisensi berlaku = PM 87/2021 jo. PM 7/2025.** Versi lama (KM 12/2009, PM 1/2014, PM 14/2019) = dicabut.
+Catatan: MOS 69-01 (PR 15/2022) = lisensi **ATC** (Pemandu Lalu Lintas), bukan teknisi — di luar fokus.
 
 ### Komunikasi (`komunikasi/`)
 | Nomor | Judul | Status |
 |---|---|---|
-| [PM 57/2011](komunikasi/PM-57-2011-part-171.md) | CASR Part 171 Penyelenggara Telekomunikasi Penerbangan | diubah (s.d. PM 48/2017) |
+| [PM 29/2021](komunikasi/PM-29-2021-part-172.md) | CASR Part 172 Penyelenggara ATM + Telekomunikasi | **aktif** (mencabut PM 57/2011) |
+| [PR 3/2022](komunikasi/PR-3-2022-SI-172-01.md) | SI 172-01 Sertifikasi Penyelenggara ATM+Telkom | aktif |
+| [KP 528/2015](komunikasi/KP-528-2015-SI-171-01.md) | SI 171-01 Sertifikasi Penyelenggara Telekomunikasi | aktif (rezim lama) |
+| [KP 110/2017](komunikasi/KP-110-2017-AC-171-10.md) | AC 171-10 Penggunaan Frekuensi Radio Penerbangan | aktif |
+| [KP 017/2017](komunikasi/KP-017-2017-AC-171-09.md) | AC 171-09 Internet Publik untuk Aplikasi Aeronautika | aktif |
+| [PM 57/2011](komunikasi/PM-57-2011-part-171.md) | ~~CASR Part 171 Penyelenggara Telekomunikasi~~ | 🚫 **dicabut** (oleh PM 29/2021) |
 
 ### Navigasi (`navigasi/`)
 | Nomor | Judul | Status |
 |---|---|---|
+| [PM 86/2021](navigasi/PM-86-2021-part-171.md) | CASR Part 171 Penyelenggara Kalibrasi Fasilitas Navigasi | **aktif** |
 | [PM 22/2015](navigasi/PM-22-2015.md) | Kalibrasi/Flight Inspection Fasilitas Navigasi | aktif |
 
 ## Cara Pakai / Kontribusi
