@@ -1,0 +1,10 @@
+# Tooling / index lokal — jangan di-commit
+.codegraph/
+.gstack/
+.claude/
+
+# OS
+.DS_Store
+
+# PDF arsip besar (opsional — aktifkan kalau gak mau commit PDF publik ke git)
+# pdf/*.pdf
