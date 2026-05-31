@@ -56,7 +56,9 @@ MOFEngineering). Disiplin Surveillance & Automation menyusul kalau ada alatnya /
 | [PR-DJPU 08/2025](umum/PR-DJPU-8-2025.md) | MOS 172-03 Persyaratan Kinerja + Pemeliharaan & Pelaporan | **aktif** |
 | [KP 220/2016](umum/KP-220-2016-MOS-172-02.md) | MOS 172-02 Aerodrome Flight Information Services (AFIS) | aktif (terbit di bawah Part 172 lama) |
 | [KP 35/2019](umum/KP-35-2019.md) | ~~AC 171-12 Pemeliharaan & Pelaporan~~ | 🚫 **dicabut** (oleh PR-DJPU 08/2025) |
-| [Legacy SKEP](umum/legacy-skep-elektronika-listrik.md) | Seri Elektronika & Listrik Penerbangan (2001–2005, pra-CASR) | ⚠️ historis/blm dikonfirmasi |
+| [SKEP/113/V/2002](umum/SKEP-113-2002.md) | Kriteria Penempatan Fasilitas Elektronika & Listrik | historis ⚠️ (pra-CASR) |
+| [SKEP/83/VI/2005](umum/SKEP-83-2005.md) | Ground Inspection Peralatan Fasilitas Elektronika & Listrik | historis ⚠️ (pra-CASR) |
+| [Legacy SKEP (indeks)](umum/legacy-skep-elektronika-listrik.md) | Indeks rezim Elektronika & Listrik (2001–2005) | terverifikasi (historis) |
 
 ### Lisensi & Rating (`lisensi-rating/`)
 | Nomor | Judul | Status |
@@ -65,6 +67,8 @@ MOFEngineering). Disiplin Surveillance & Automation menyusul kalau ada alatnya /
 | [PM 7/2025](lisensi-rating/PM-7-2025.md) | Perubahan Lampiran Part 69 (selaras Annex 1 ICAO) | aktif |
 | [PR 18/2023](lisensi-rating/PR-18-2023-MOS-69-02.md) | MOS 69-02 — rating Teknik Telekomunikasi Penerbangan | aktif |
 | [PR 20/2023](lisensi-rating/PR-20-2023-SI-69-02.md) | SI 69-02 — pengujian lisensi/rating teknisi telkom | aktif |
+| [SKEP/176/XII/2001](lisensi-rating/SKEP-176-2001.md) | Sertifikasi Kecakapan Teknisi Elektronika & Listrik | historis ⚠️ (pra-CASR) |
+| [SKEP/115/V/2002](lisensi-rating/SKEP-115-2002.md) | Pedoman Diklat Teknisi Elektronika & Listrik | historis ⚠️ (pra-CASR) |
 
 **Lisensi berlaku = PM 87/2021 jo. PM 7/2025.** Versi lama (KM 12/2009, PM 1/2014, PM 14/2019) = dicabut.
 Catatan: MOS 69-01 (PR 15/2022) = lisensi **ATC** (Pemandu Lalu Lintas), bukan teknisi — di luar fokus.
