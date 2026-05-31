@@ -1,0 +1,51 @@
+---
+title: Regulasi Teknisi Penerbangan CNS/A
+description: Kumpulan terkurasi regulasi teknisi penerbangan CNS/A Indonesia — status keberlakuan selalu jelas, disusun per disiplin.
+template: splash
+hero:
+  tagline: Regulasi CNS/A (Communication, Navigation, Surveillance, Automation) Indonesia — terkurasi, status keberlakuan selalu jelas, disusun menurut cara kerja teknisi.
+  actions:
+    - text: Lisensi & Rating
+      link: /lisensi-rating/casr-69/
+      icon: right-arrow
+    - text: GitHub
+      link: https://github.com/ariwisnu/regulasi-teknisi-penerbangan
+      icon: external
+      variant: minimal
+---
+
+import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
+
+## Mau cari apa?
+
+<CardGrid>
+  <LinkCard title="📡 Komunikasi" href="/komunikasi/" description="VHF A/G, Voice Recorder, frekuensi radio, jaringan komunikasi penerbangan." />
+  <LinkCard title="🧭 Navigasi" href="/navigasi/" description="DVOR, DME, kalibrasi / flight inspection nav aids." />
+  <LinkCard title="🛰️ Surveillance" href="/surveillance/" description="Kode SSR/SAC/SIC, ADS-B, MLAT (regulasi kode)." />
+  <LinkCard title="📜 Lisensi & Rating" href="/lisensi-rating/casr-69/" description="CASR Part 69, MOS/SI 69-02 — lisensi teknisi telekomunikasi penerbangan." />
+  <LinkCard title="⚖️ Umum / Payung" href="/umum/uu-1-2009/" description="UU 1/2009, PP, spesifikasi teknis, pemeliharaan, jabatan teknisi." />
+  <LinkCard title="📖 Cara Pakai & Status" href="/panduan/" description="Legenda status (aktif/dicabut/diubah), aturan konten, kontribusi." />
+</CardGrid>
+
+## Kenapa repo ini
+
+<CardGrid>
+  <Card title="Status selalu ketahuan" icon="approve-check">
+    Tiap regulasi ditandai **aktif / dicabut / diubah** + apa yang mencabutnya. Ngikutin regulasi
+    basi = bahaya (salah lisensi, salah parameter). Ini value utama.
+  </Card>
+  <Card title="Per cara kerja teknisi" icon="setting">
+    Disusun per **disiplin & alat** (lo pegang ILS → butuh apa), bukan per nomor dokumen.
+  </Card>
+  <Card title="Tertaut ke sumber resmi" icon="document">
+    Tiap halaman menautkan **JDIH Kemenhub / SWORD AirNav** — selalu ngarah ke versi resmi.
+  </Card>
+  <Card title="Git = pelacak versi" icon="github">
+    Tiap perubahan regulasi jadi commit. Teknisi lain bisa kontribusi lewat Pull Request.
+  </Card>
+</CardGrid>
+
+:::caution[Bukan dokumen resmi]
+Repo ini alat bantu terkurasi, **bukan** dokumen resmi AirNav/Kemenhub. Untuk keputusan operasional,
+selalu rujuk teks resmi di [JDIH Kemenhub](https://jdih.dephub.go.id/).
+:::
