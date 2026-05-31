@@ -7,10 +7,10 @@ cara teknisi mikir ("gw pegang VHF A/G, gw butuh regulasi apa").
 
 | Alat | Merk | Lokasi | Lisensi/Rating | Spesifikasi teknis | Prosedur pemeliharaan | Penyelenggara |
 |---|---|---|---|---|---|---|
-| **VHF A/G** | BECKER | Tower Lt.2 | [PR 18/2023 MOS 69-02](../lisensi-rating/PR-18-2023-MOS-69-02.md) | [KP 103/2015 §VHF A/G](../umum/KP-103-2015.md) | [KP 35/2019](../umum/KP-35-2019.md) | [PM 57/2011 Part 171](PM-57-2011-part-171.md) |
-| **VHF Portable** | Dittel | Tower Lt.4 | PR 18/2023 MOS 69-02 | KP 103/2015 §VHF | KP 35/2019 | PM 57/2011 |
-| **Voice Recorder** | Atis Uher | Tower Lt.2 | PR 18/2023 MOS 69-02 | KP 103/2015 §Recorder | KP 35/2019 | PM 57/2011 |
-| **PABX** | Panasonic | Tower Lt.2 | — (fasilitas pendukung) | — | KP 35/2019 (umum) | PM 57/2011 |
+| **VHF A/G** | BECKER | Tower Lt.2 | [PR 18/2023 MOS 69-02](../lisensi-rating/PR-18-2023-MOS-69-02.md) | [KP 103/2015 §VHF A/G](../umum/KP-103-2015.md) | [PR-DJPU 08/2025](../umum/PR-DJPU-8-2025.md) | [PM 57/2011 Part 171](PM-57-2011-part-171.md) |
+| **VHF Portable** | Dittel | Tower Lt.4 | PR 18/2023 MOS 69-02 | KP 103/2015 §VHF | PR-DJPU 08/2025 | PM 57/2011 |
+| **Voice Recorder** | Atis Uher | Tower Lt.2 | PR 18/2023 MOS 69-02 | KP 103/2015 §Recorder | PR-DJPU 08/2025 | PM 57/2011 |
+| **PABX** | Panasonic | Tower Lt.2 | — (fasilitas pendukung) | — | PR-DJPU 08/2025 (umum) | PM 57/2011 |
 
 > Sumber daftar alat: seed Unit Maumere (project MOFEngineering). DVOR/DME ada di folder `navigasi/`.
 
@@ -20,9 +20,9 @@ cara teknisi mikir ("gw pegang VHF A/G, gw butuh regulasi apa").
 - Parameter & toleransi verbatim (frekuensi, power, modulation depth) **belum diisi** — harus ditarik
   dari PDF KP 103/2015 atau SWORD AirNav, bukan dari ingatan (nilai keselamatan).
 - Voice Recorder wajib untuk perekaman komunikasi ATS (audit/investigasi) — diatur Part 171 + Annex 10.
-- **Pemeliharaan & pelaporan:** selain KP 35/2019 (AC 171-12), ada
-  [PR-DJPU 08/2025](../umum/PR-DJPU-8-2025.md) (MOS 172-03, lebih baru, + persyaratan kinerja).
-  Cek mana yang berlaku di unit.
+- **Pemeliharaan & pelaporan:** acuan aktif = [PR-DJPU 08/2025](../umum/PR-DJPU-8-2025.md) (MOS 172-03).
+  KP 35/2019 (AC 171-12) sudah **dicabut** oleh dokumen ini (14 Apr 2025). VHF A/G & Voice Recorder
+  ada di BAB II (persyaratan kinerja) MOS 172-03.
 
 ## Regulasi di folder ini
 

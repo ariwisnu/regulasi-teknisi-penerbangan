@@ -46,8 +46,8 @@ MOFEngineering). Disiplin Surveillance & Automation menyusul kalau ada alatnya /
 | [PP 77/2012](umum/PP-77-2012.md) | Perum LPPNPI (AirNav) | aktif |
 | [PM 64/2011](umum/PM-64-2011.md) | Kriteria/Tugas/Wewenang Teknisi Penerbangan | aktif |
 | [KP 103/2015](umum/KP-103-2015.md) | MOS 171-02 Spesifikasi Teknis Fasilitas Telekomunikasi | aktif |
-| [KP 35/2019](umum/KP-35-2019.md) | AC 171-12 Prosedur Pemeliharaan & Pelaporan | aktif ⚠️ |
-| [PR-DJPU 08/2025](umum/PR-DJPU-8-2025.md) | MOS 172-03 Persyaratan Kinerja + Pemeliharaan & Pelaporan Fasilitas Telekomunikasi | aktif |
+| [PR-DJPU 08/2025](umum/PR-DJPU-8-2025.md) | MOS 172-03 Persyaratan Kinerja + Pemeliharaan & Pelaporan Fasilitas Telekomunikasi | **aktif** |
+| [KP 35/2019](umum/KP-35-2019.md) | ~~AC 171-12 Prosedur Pemeliharaan & Pelaporan~~ | 🚫 **dicabut** (oleh PR-DJPU 08/2025) |
 
 ### Lisensi & Rating (`lisensi-rating/`)
 | Nomor | Judul | Status |
