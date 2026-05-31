@@ -35,6 +35,8 @@ cara teknisi mikir ("gw pegang VHF A/G, gw butuh regulasi apa").
 - [KP 528/2015 (SI 171-01)](KP-528-2015-SI-171-01.md) — sertifikasi penyelenggara telkom (rezim lama).
 - [KP 110/2017 (AC 171-10)](KP-110-2017-AC-171-10.md) — penggunaan frekuensi radio penerbangan.
 - [KP 017/2017 (AC 171-09)](KP-017-2017-AC-171-09.md) — internet publik untuk aplikasi aeronautika.
+- [KP 008/2017](KP-008-2017.md) — Tatanan Jaringan Komunikasi Penerbangan Nasional.
+- [Perdirjen SDPPI 1/2021](PERDIRJEN-SDPPI-1-2021.md) — pencatatan stasiun radio ke ITU (Kominfo, spektrum).
 - [PM 57/2011 (Part 171)](PM-57-2011-part-171.md) — 🚫 **dicabut** (arsip jejak versi).
 
 Regulasi lintas-disiplin (spesifikasi, pemeliharaan, lisensi, payung) ada di `../umum/` dan

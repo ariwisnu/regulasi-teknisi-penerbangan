@@ -54,7 +54,7 @@ MOFEngineering). Disiplin Surveillance & Automation menyusul kalau ada alatnya /
 | [KM 55/2026](umum/KM-55-2026.md) | Pedoman Formasi Jabatan Fungsional Teknisi Penerbangan | aktif |
 | [KP 103/2015](umum/KP-103-2015.md) | MOS 171-02 Spesifikasi Teknis Fasilitas Telekomunikasi | aktif (rezim lama) |
 | [PR-DJPU 08/2025](umum/PR-DJPU-8-2025.md) | MOS 172-03 Persyaratan Kinerja + Pemeliharaan & Pelaporan | **aktif** |
-| [KP 220/2016](umum/KP-220-2016-MOS-172-02.md) | MOS 172-02 Aerodrome Flight Information Services (AFIS) | aktif ⚠️ (SWORD, blm di JDIH) |
+| [KP 220/2016](umum/KP-220-2016-MOS-172-02.md) | MOS 172-02 Aerodrome Flight Information Services (AFIS) | aktif (terbit di bawah Part 172 lama) |
 | [KP 35/2019](umum/KP-35-2019.md) | ~~AC 171-12 Pemeliharaan & Pelaporan~~ | 🚫 **dicabut** (oleh PR-DJPU 08/2025) |
 | [Legacy SKEP](umum/legacy-skep-elektronika-listrik.md) | Seri Elektronika & Listrik Penerbangan (2001–2005, pra-CASR) | ⚠️ historis/blm dikonfirmasi |
 
@@ -78,7 +78,7 @@ Catatan: MOS 69-01 (PR 15/2022) = lisensi **ATC** (Pemandu Lalu Lintas), bukan t
 | [KP 110/2017](komunikasi/KP-110-2017-AC-171-10.md) | AC 171-10 Penggunaan Frekuensi Radio Penerbangan | aktif |
 | [KP 017/2017](komunikasi/KP-017-2017-AC-171-09.md) | AC 171-09 Internet Publik untuk Aplikasi Aeronautika | aktif |
 | [KP 008/2017](komunikasi/KP-008-2017.md) | Tatanan Jaringan Komunikasi Penerbangan Nasional | aktif |
-| [PR 1/2021](komunikasi/PR-1-2021-stasiun-radio-itu.md) | Pencatatan Stasiun Radio Teresterial ke ITU | aktif ⚠️ (SWORD, blm di JDIH) |
+| [Perdirjen SDPPI 1/2021](komunikasi/PERDIRJEN-SDPPI-1-2021.md) | Pencatatan Stasiun Radio Teresterial ke ITU (Kominfo, lintas-sektor) | aktif |
 | [PM 57/2011](komunikasi/PM-57-2011-part-171.md) | ~~CASR Part 171 Penyelenggara Telekomunikasi~~ | 🚫 **dicabut** (oleh PM 29/2021) |
 
 ### Navigasi (`navigasi/`)
