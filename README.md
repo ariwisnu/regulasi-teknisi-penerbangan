@@ -34,8 +34,8 @@ MOFEngineering). Disiplin Surveillance & Automation menyusul kalau ada alatnya /
 
 - 📡 **[Komunikasi](komunikasi/README.md)** — VHF A/G, VHF Portable, Voice Recorder, PABX
 - 🧭 **[Navigasi](navigasi/README.md)** — DVOR, DME (Shelter VOR; status U/S per AIP SUP 39/2024)
-- 🛰️ Surveillance — *(belum ada alat di MOF)*
-- ⚙️ Automation — *(belum ada alat di MOF)*
+- 🛰️ **[Surveillance](surveillance/README.md)** — *belum ada alat di MOF; regulasi kode (SAC/SIC/SSR) disertakan untuk kelengkapan*
+- ⚙️ Automation — *belum ada alat khusus di MOF; spesifikasi ATC Automation tercakup di KP 103/2015 & MOS 172-03*
 
 ## Indeks Regulasi
 
@@ -51,9 +51,12 @@ MOFEngineering). Disiplin Surveillance & Automation menyusul kalau ada alatnya /
 | [PP 77/2012](umum/PP-77-2012.md) | Perum LPPNPI (AirNav) | aktif |
 | [PP 32/2021](umum/PP-32-2021.md) | Penyelenggaraan Bidang Penerbangan | aktif |
 | [PM 64/2011](umum/PM-64-2011.md) | Kriteria/Tugas/Wewenang Teknisi Penerbangan | aktif |
+| [KM 55/2026](umum/KM-55-2026.md) | Pedoman Formasi Jabatan Fungsional Teknisi Penerbangan | aktif |
 | [KP 103/2015](umum/KP-103-2015.md) | MOS 171-02 Spesifikasi Teknis Fasilitas Telekomunikasi | aktif (rezim lama) |
 | [PR-DJPU 08/2025](umum/PR-DJPU-8-2025.md) | MOS 172-03 Persyaratan Kinerja + Pemeliharaan & Pelaporan | **aktif** |
+| [KP 220/2016](umum/KP-220-2016-MOS-172-02.md) | MOS 172-02 Aerodrome Flight Information Services (AFIS) | aktif ⚠️ (SWORD, blm di JDIH) |
 | [KP 35/2019](umum/KP-35-2019.md) | ~~AC 171-12 Pemeliharaan & Pelaporan~~ | 🚫 **dicabut** (oleh PR-DJPU 08/2025) |
+| [Legacy SKEP](umum/legacy-skep-elektronika-listrik.md) | Seri Elektronika & Listrik Penerbangan (2001–2005, pra-CASR) | ⚠️ historis/blm dikonfirmasi |
 
 ### Lisensi & Rating (`lisensi-rating/`)
 | Nomor | Judul | Status |
@@ -74,6 +77,8 @@ Catatan: MOS 69-01 (PR 15/2022) = lisensi **ATC** (Pemandu Lalu Lintas), bukan t
 | [KP 528/2015](komunikasi/KP-528-2015-SI-171-01.md) | SI 171-01 Sertifikasi Penyelenggara Telekomunikasi | aktif (rezim lama) |
 | [KP 110/2017](komunikasi/KP-110-2017-AC-171-10.md) | AC 171-10 Penggunaan Frekuensi Radio Penerbangan | aktif |
 | [KP 017/2017](komunikasi/KP-017-2017-AC-171-09.md) | AC 171-09 Internet Publik untuk Aplikasi Aeronautika | aktif |
+| [KP 008/2017](komunikasi/KP-008-2017.md) | Tatanan Jaringan Komunikasi Penerbangan Nasional | aktif |
+| [PR 1/2021](komunikasi/PR-1-2021-stasiun-radio-itu.md) | Pencatatan Stasiun Radio Teresterial ke ITU | aktif ⚠️ (SWORD, blm di JDIH) |
 | [PM 57/2011](komunikasi/PM-57-2011-part-171.md) | ~~CASR Part 171 Penyelenggara Telekomunikasi~~ | 🚫 **dicabut** (oleh PM 29/2021) |
 
 ### Navigasi (`navigasi/`)
@@ -81,6 +86,14 @@ Catatan: MOS 69-01 (PR 15/2022) = lisensi **ATC** (Pemandu Lalu Lintas), bukan t
 |---|---|---|
 | [PM 86/2021](navigasi/PM-86-2021-part-171.md) | CASR Part 171 Penyelenggara Kalibrasi Fasilitas Navigasi | **aktif** |
 | [PM 22/2015](navigasi/PM-22-2015.md) | Kalibrasi/Flight Inspection Fasilitas Navigasi | aktif |
+
+### Surveillance (`surveillance/`)
+| Nomor | Judul | Status |
+|---|---|---|
+| [PR 6 DJPU 2024](surveillance/PR-6-DJPU-2024.md) | Alokasi SAC/SIC/II Code, ICAO 24-bit, ELT 406 MHz, Location Indicator | **aktif** |
+| [KP 243/2014](surveillance/KP-243-2014.md) | ~~Izin Kode SSR Mode-S & ELT 406 MHz~~ | 🚫 **dicabut** (oleh PR 6 DJPU 2024) |
+
+> Unit Maumere belum punya alat surveillance (radar/ADS-B/MLAT) — folder ini untuk kelengkapan disiplin.
 
 ## Cara Pakai / Kontribusi
 
