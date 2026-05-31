@@ -1,5 +1,7 @@
 # Regulasi Teknisi Penerbangan CNS/A
 
+🌐 **Website:** https://regulasi-teknisi-penerbangan.vercel.app — ber-search, mobile-first (dibangun pakai Astro Starlight).
+
 Kumpulan terkurasi regulasi untuk **teknisi penerbangan bidang CNS/A** (Communication, Navigation,
 Surveillance, Automation) di Indonesia — fokus: status keberlakuan yang **selalu jelas** (berlaku /
 dicabut / diubah), disusun menurut **cara kerja teknisi** (per alat), bukan per nomor dokumen.
