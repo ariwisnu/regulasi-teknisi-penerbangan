@@ -31,10 +31,10 @@ acuan operasional.
 
 | Nomor | Judul | Pengganti rezim CASR | File |
 |---|---|---|---|
-| **SKEP/176/XII/2001** | Sertifikasi Kecakapan Teknisi Elektronika & Listrik | Part 69 (PM 87/2021 jo PM 7/2025) + MOS 69-02 | [→](/lisensi-rating/skep-176-2001/) |
-| **SKEP/115/V/2002** | Pedoman Diklat Teknisi Elektronika & Listrik | kerangka pelatihan Part 69 | [→](/lisensi-rating/skep-115-2002/) |
-| **SKEP/113/V/2002** | Kriteria Penempatan Fasilitas Elektronika & Listrik | KP 103/2015 (MOS 171-02) | [→](/umum/skep-113-2002/) |
-| **SKEP/83/VI/2005** | Ground Inspection Peralatan Fasilitas Elektronika & Listrik | PR-DJPU 08/2025 (MOS 172-03) BAB III + KP 103/2015 | [→](/umum/skep-83-2005/) |
+| **SKEP/176/XII/2001** | Sertifikasi Kecakapan Teknisi Elektronika & Listrik | Part 69 (PM 87/2021 jo PM 7/2025) + MOS 69-02 | [Buka SKEP/176/2001 →](/lisensi-rating/skep-176-2001/) |
+| **SKEP/115/V/2002** | Pedoman Diklat Teknisi Elektronika & Listrik | kerangka pelatihan Part 69 | [Buka SKEP/115/2002 →](/lisensi-rating/skep-115-2002/) |
+| **SKEP/113/V/2002** | Kriteria Penempatan Fasilitas Elektronika & Listrik | KP 103/2015 (MOS 171-02) | [Buka SKEP/113/2002 →](/umum/skep-113-2002/) |
+| **SKEP/83/VI/2005** | Ground Inspection Peralatan Fasilitas Elektronika & Listrik | PR-DJPU 08/2025 (MOS 172-03) BAB III + KP 103/2015 | [Buka SKEP/83/2005 →](/umum/skep-83-2005/) |
 
 > Terkait (belum dibuat file): **SKEP/82/VI/2005** (Sertifikat Peralatan Fasilitas Elektronika & Listrik)
 > — dirujuk di SKEP/83/2005; tambahkan bila perlu.
