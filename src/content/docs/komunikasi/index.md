@@ -10,11 +10,11 @@ mikir ("gw pegang VHF A/G, gw butuh regulasi apa").
 
 | Alat | Lisensi/Rating | Spesifikasi | Pemeliharaan/Kinerja | Penyelenggara | Frekuensi |
 |---|---|---|---|---|---|
-| **VHF A/G** | [PR 18/2023](/lisensi-rating/pr-18-2023-mos-69-02/) + [PR 20/2023](/lisensi-rating/pr-20-2023-si-69-02/) | [KP 103/2015 §VHF](/umum/kp-103-2015/) | [PR-DJPU 08/2025](/umum/pr-djpu-8-2025/) | [PM 29/2021](/komunikasi/pm-29-2021-part-172/) | [KP 110/2017](/komunikasi/kp-110-2017-ac-171-10/) |
-| **HF A/G** | PR 18/2023 + PR 20/2023 | KP 103/2015 §HF | PR-DJPU 08/2025 | PM 29/2021 | KP 110/2017 |
-| **Voice Recorder** | PR 18/2023 + PR 20/2023 | KP 103/2015 §Recorder | PR-DJPU 08/2025 | PM 29/2021 | — |
-| **ATIS / D-ATIS** | PR 18/2023 + PR 20/2023 | KP 103/2015 §ATIS | PR-DJPU 08/2025 | PM 29/2021 | KP 110/2017 |
-| **AMHS/AFTN, jaringan ATS/DS** | PR 18/2023 | KP 103/2015 | PR-DJPU 08/2025 | PM 29/2021 | — |
+| **VHF A/G** | [PR 18/2023](/lisensi-rating/pr-18-2023-mos-69-02/) + [PR 20/2023](/lisensi-rating/pr-20-2023-si-69-02/) | [Tower](/umum/kp-103-2015/#vhf-ag-tower-set) · [APP](/umum/kp-103-2015/#vhf-ag-app) · [Portable](/umum/kp-103-2015/#vhf-ag-portable) | [PR-DJPU 08/2025](/umum/pr-djpu-8-2025/) | [PM 29/2021](/komunikasi/pm-29-2021-part-172/) | [KP 110/2017](/komunikasi/kp-110-2017-ac-171-10/) |
+| **HF A/G** | PR 18/2023 + PR 20/2023 | [KP 103/2015 §HF](/umum/kp-103-2015/#hf-ag) | PR-DJPU 08/2025 | PM 29/2021 | KP 110/2017 |
+| **Voice Recorder** | PR 18/2023 + PR 20/2023 | [KP 103/2015 (di Tower Set)](/umum/kp-103-2015/#vhf-ag-tower-set) | PR-DJPU 08/2025 | PM 29/2021 | — |
+| **ATIS / D-ATIS** | PR 18/2023 + PR 20/2023 | [KP 103/2015 §ATIS](/umum/kp-103-2015/#atis) | PR-DJPU 08/2025 | PM 29/2021 | KP 110/2017 |
+| **AMHS/AFTN, jaringan ATS/DS** | PR 18/2023 | KP 103/2015 *(ditangguhkan → Automation)* | PR-DJPU 08/2025 | PM 29/2021 | — |
 
 > Sertifikasi penyelenggara: [PR 3/2022 (SI 172-01)](/komunikasi/pr-3-2022-si-172-01/) (rezim baru) /
 > [KP 528/2015 (SI 171-01)](/komunikasi/kp-528-2015-si-171-01/) (rezim lama). Tatanan jaringan komunikasi:
@@ -23,8 +23,11 @@ mikir ("gw pegang VHF A/G, gw butuh regulasi apa").
 ## Catatan
 
 - **VHF A/G** = fasilitas inti komunikasi udara-darat (umumnya konfigurasi DUAL main/standby).
-- Parameter & toleransi verbatim (frekuensi, power, modulation depth) **belum diisi** — harus ditarik
-  dari PDF KP 103/2015 atau SWORD AirNav, bukan dari ingatan (nilai keselamatan).
+- Parameter & toleransi verbatim (frekuensi, power, modulation depth) sudah **ditranskripsi** dari
+  KP 103/2015 → [VHF Tower](/umum/kp-103-2015/#vhf-ag-tower-set) ·
+  [VHF APP](/umum/kp-103-2015/#vhf-ag-app) · [VHF Portable](/umum/kp-103-2015/#vhf-ag-portable) ·
+  [HF](/umum/kp-103-2015/#hf-ag) · [ATIS](/umum/kp-103-2015/#atis). ⚠️ Tabel VHF Portable di dokumen
+  sumber teracak (label↔nilai) — ditandai di halaman spec.
 - Voice Recorder wajib untuk perekaman komunikasi ATS (audit/investigasi) — Part 172 + Annex 10.
 - **Pemeliharaan & pelaporan:** acuan aktif = [PR-DJPU 08/2025](/umum/pr-djpu-8-2025/) (MOS 172-03).
   KP 35/2019 (AC 171-12) sudah **dicabut** oleh dokumen ini (14 Apr 2025).

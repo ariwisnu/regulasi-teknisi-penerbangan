@@ -15,7 +15,9 @@ serta spesifikasi & pemeliharaan fasilitas surveillance (PSR/MSSR/ADS-B/MLAT).
 
 ## Spesifikasi & pemeliharaan surveillance
 
-Spesifikasi teknis surveillance (PSR, MSSR Mode-S, ADS-B, MLAT, ATC Automation) ada di
-[KP 103/2015 (MOS 171-02)](/umum/kp-103-2015/); persyaratan kinerja + pemeliharaan di
+Spesifikasi teknis surveillance sudah **ditranskripsi verbatim** dari KP 103/2015 (MOS 171-02):
+[PSR](/umum/kp-103-2015/#psr) (S/L-Band) · [MSSR Mode S](/umum/kp-103-2015/#mssr-mode-s) ·
+[ADS-B](/umum/kp-103-2015/#ads-b) · [MLAT](/umum/kp-103-2015/#mlat). ATC Automation = sistem otomasi
+(ditangguhkan → disiplin Automation). Persyaratan kinerja + pemeliharaan di
 [PR-DJPU 08/2025 (MOS 172-03)](/umum/pr-djpu-8-2025/) BAB II. Lisensi/rating: Part 69
 ([PR 18/2023](/lisensi-rating/pr-18-2023-mos-69-02/)).
